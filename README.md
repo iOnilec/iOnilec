@@ -1,16 +1,28 @@
-## Hi there 👋
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/guto-fn)](https://github.com/guto-fn)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/cesar-augusto-de-morais-celino-bbba63369/)
 
-<!--
-**guto-fn/guto-fn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 E aí, eu sou Cesar Augusto (Guto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor **Backend** em formação, focado em construir aplicações sólidas com **PHP**. Atualmente estou aprofundando meu conhecimento em **Python** e me preparando para o vestibular da **USP São Carlos**.
+
+---
+
+### 🚀 Em andamento
+- 📘 Estudando e melhorando **Python**, **lógica de programação | Algoritmos** e **POO**
+- 🧠 Foco nos estudos para entrar na **USP São Carlos**
+- 🔧 Construindo sistemas com **Laravel** e **PHP**
+- 🐳 Usando **Docker** e **pgAdmin** com **PostgreSQL**
+- 📄 Documentando com **Swagger | Postman**
+
+---
+
+### 🛠️ Tecnologias que uso
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
