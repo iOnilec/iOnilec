@@ -13,8 +13,6 @@ Desenvolvedor **Backend** em formação, focado em construir aplicações sólid
 - 📘 Estudando e melhorando **Python**, **lógica de programação | Algoritmos** e **POO**
 - 🧠 Foco nos estudos para entrar na **USP São Carlos**
 - 🔧 Construindo sistemas com **Laravel** e **PHP**
-- 🐳 Usando **Docker** e **pgAdmin** com **PostgreSQL**
-- 📄 Documentando com **Swagger | Postman**
 
 ---
 
