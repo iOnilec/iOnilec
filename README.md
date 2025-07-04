@@ -10,7 +10,7 @@ Desenvolvedor **Backend** em formação, focado em construir aplicações sólid
 ---
 
 ### 🚀 Em andamento
-- 📘 Estudando e melhorando **Python**, **lógica de programação | Algoritmos** e **POO**
+- 📘 Estudando e melhorando **Python** e **lógica de programação | Algoritmos**
 - 🧠 Foco nos estudos para entrar na **USP São Carlos**
 - 🔧 Construindo sistemas com **Laravel** e **PHP**
 
