@@ -11,8 +11,8 @@ Desenvolvedor **Backend** em formação, focado em construir aplicações sólid
 
 ### 🚀 Em andamento
 - 📘 Estudando e melhorando **Python** e **lógica de programação | Algoritmos**
-- 🧠 Foco nos estudos para entrar na **USP São Carlos**
-- 🔧 Construindo sistemas com **Laravel** e **PHP**
+- 🧠 Foco nosestudos para entrar na **USP**
+- 🔧 Atualmente estou construindo sistemas com **Laravel** e **PHP** na [Diverti Tecnologia](https://diverti.io)
 
 ---
 
