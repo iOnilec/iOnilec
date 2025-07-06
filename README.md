@@ -7,9 +7,8 @@ Desenvolvedor **Backend** em formação, focado em construir aplicações sólid
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/cesar-augusto-de-morais-celino-bbba63369/)
 
 ### 🚀 Em andamento
-- 🔧 Atualmente Trabalhando na [Diverti Tecnologia](https://diverti.io)
-- 📘 Estudando e melhorando **Python** e **lógica de programação | Algoritmos**
-- 🧠 Foco nos estudos para entrar na **USP**
+- 🔧 Atualmente Trabalhando na [Diverti Tecnologia](https://diverti.io).
+- 📘 Estudando e melhorando **Python** e **lógica de programação | Algoritmos**.
   
 ---
 
